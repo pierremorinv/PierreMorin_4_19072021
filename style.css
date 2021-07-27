@@ -629,9 +629,11 @@ h4 {
 .white {
   color: #ffffff !important;
 }
+/* Correcting of the dimension of the pictures on responsive part  */
 .portfolio-thumb {
   margin-bottom: 24px;
   width: 100%;
+  /* ///////////////////////////////////////////////////////////////// */
 }
 .portfolio-row {
   margin-bottom: 44px;
