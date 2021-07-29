@@ -658,6 +658,7 @@ h4 {
 }
 .tc-white {
   text-align: center;
+  color: #f3976c !important;
 }
 .btn-atomic-tangerine {
   background: #f3976c;
