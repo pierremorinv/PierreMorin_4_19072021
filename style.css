@@ -42,7 +42,7 @@ a:hover {
   padding-right: 0;
 }
 .bloc-lg {
-  padding: 100px 50px;
+  padding: 100px;
 }
 .bloc-md {
   padding: 50px;
@@ -567,7 +567,7 @@ a {
   color: #575757 !important;
 }
 .container {
-  max-width: 1000px;
+  width: 100%;
 }
 .hero-bloc-text {
   font-size: 38px;
