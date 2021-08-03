@@ -6,6 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+.text-center {
+  text-align: center;
+}
 a,
 button {
   transition: all 0.3s ease-in-out;
@@ -515,6 +518,7 @@ a[data-lightbox]:hover img {
   padding: 0 9px 5px;
   opacity: 0.5;
 }
+
 .close-lightbox:hover,
 .next-lightbox:hover,
 .prev-lightbox:hover {
@@ -911,9 +915,7 @@ h4 {
     margin-right: 2%;
   }
 }
-.text-center {
-  text-align: center;
-}
+
 a {
   padding-left: 20px;
   padding-right: 20px;
