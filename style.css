@@ -308,10 +308,8 @@ a:hover {
 @media (min-width: 768px) {
   .site-navigation {
     position: absolute;
-    top: 50%;
-    right: 20px;
-    transform: translate(0, -50%);
-    -webkit-transform: translateY(-50%);
+    top: 10px;
+    right: 150px;
   }
   .nav > li .dropdown-menu a,
   .nav > li .dropdown-menu a:hover {
@@ -435,6 +433,7 @@ button {
 .form-control {
   border-color: rgba(0, 0, 0, 0.1);
   box-shadow: none;
+  width: 50%;
 }
 .scrollToTop {
   width: 40px;
@@ -902,7 +901,18 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+  .form-control {
+    width: 95%;
+    margin-right: 2%;
+  }
 }
 .text-center {
   text-align: center;
+}
+a {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+li {
+  list-style-type: none;
 }
