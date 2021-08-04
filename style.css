@@ -15,7 +15,6 @@ button {
   outline: none !important;
 }
 a:hover {
-  text-decoration: none;
   cursor: pointer;
 }
 #page-loading-blocs-notifaction {
@@ -284,9 +283,9 @@ a:hover {
 .navbar-nav .open .dropdown-menu > li > a {
   text-align: inherit;
 }
-.nav > li a:hover,
-.nav > li a:focus {
+.nav > li a:hover {
   background: transparent;
+  text-decoration: underline;
 }
 .navbar-toggle {
   margin: 10px 10px 0 0;
