@@ -671,7 +671,6 @@ h4 {
 .btn-atomic-tangerine {
   background: #c15636;
   color: #ffffff !important;
-  width: 50%;
 }
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
@@ -910,7 +909,6 @@ h4 {
     margin-right: 2%;
   }
   .btn-atomic-tangerine {
-    width: 95%;
     margin-right: 2%;
   }
 }
