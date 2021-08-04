@@ -13,9 +13,11 @@ a,
 button {
   transition: all 0.3s ease-in-out;
   outline: none !important;
+  text-decoration: none;
 }
 a:hover {
   cursor: pointer;
+  text-decoration: underline;
 }
 #page-loading-blocs-notifaction {
   position: fixed;
