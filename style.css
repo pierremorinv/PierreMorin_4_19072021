@@ -608,7 +608,8 @@ p {
   margin-top: 3%;
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: 90%;
+  margin-bottom: 3%;
 }
 h2 {
   font-size: 22px;
